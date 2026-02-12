@@ -140,14 +140,7 @@ http://localhost:8080/
 
 ---
 
-## 🎓 Project Purpose
 
-This project is suitable for:
-- Final Year Project
-- Resume Portfolio Project
-- Spring Boot Practice Project
-
----
 
 ## 👨‍💻 Author
 
